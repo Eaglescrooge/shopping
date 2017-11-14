@@ -1,5 +1,6 @@
 <?php
 
-	echo "tracking time";	
+	echo "tracking time";
+	echo "dont start tracking";	
 
 ?>
